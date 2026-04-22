@@ -1,12 +1,4 @@
 {
-  "project_name": "serverless-edge-dns-gateway-v2",
-  "custom_domain": "serverless-edge-dns-gateway-v2.bibica.net",
-  "accounts": [
-    "CLOUDFLARE_ACCOUNT_ID_1 CLOUDFLARE_API_TOKEN_1",
-    "CLOUDFLARE_ACCOUNT_ID_2 CLOUDFLARE_API_TOKEN_2",
-    "xxxxxxxxxxxxxxxxxxxxxxx cfut_xxxxxxxxxxxxxxxxx",
-    "xxxxxxxxxxxxxxxxxxxxxxx cfut_xxxxxxxxxxxxxxxxx",
-    "xxxxxxxxxxxxxxxxxxxxxxx cfut_xxxxxxxxxxxxxxxxx",
-    "xxxxxxxxxxxxxxxxxxxxxxx cfut_xxxxxxxxxxxxxxxxx"
-  ]
+  "project_name": "dns-domain-com",
+  "custom_domain": "dns.domain.com"
 }

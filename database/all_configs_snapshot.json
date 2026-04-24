@@ -24,7 +24,7 @@
   },
   "custom_lists": {
     "blocklist": "",
-    "allowlist": "",
+    "allowlist": "browser.coccoc.com\nsafe-browsing-api.coccoc.com\naccounts.coccoc.com\npoints.coccoc.com\nedge.microsoft.com\ncloudflare.com\ncloudflare.net\ncloudflareinsights.com\nbitwarden.com\nvault.bitwarden.com\nvault.bitwarden.eu\npagead2.googlesyndication.com\numami.is\ncontrold.com\ntolt.io\niplocate.io\nvlxx.bz\nvlxx.ms\nclick.mz.simba.taobao.com\nclick.tz.simba.taobao.com\nadsense.google.com\nanalytics.google.com\nadipolo.com\ndashboard.adipolo.com",
     "redirect_rules": "",
     "private_tlds": "",
     "mullvad_upstream": ""
@@ -43,5 +43,5 @@
     "allowlist": [],
     "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt\nhttps://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts\nhttps://badmojr.github.io/1Hosts/Lite/adblock.txt"
   },
-  "_updated": 1777008553800
+  "_updated": 1777008667012
 }

@@ -33,7 +33,7 @@
     "blocklist": [
       "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt",
       "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt",
-      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
       "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
       "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
       "https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt",
@@ -41,7 +41,7 @@
       "https://badmojr.github.io/1Hosts/Lite/adblock.txt"
     ],
     "allowlist": [],
-    "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt\nhttps://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts\nhttps://badmojr.github.io/1Hosts/Lite/adblock.txt"
+    "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt\nhttps://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts\nhttps://badmojr.github.io/1Hosts/Lite/adblock.txt"
   },
-  "_updated": 1777008667012
+  "_updated": 1777009153661
 }

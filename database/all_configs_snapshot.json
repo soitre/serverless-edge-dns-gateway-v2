@@ -1,0 +1,47 @@
+{
+  "config": {
+    "UPSTREAM_PRIMARY": "https://bu0eg1tdzu.cloudflare-gateway.com/dns-query",
+    "UPSTREAM_FALLBACK": "https://rhpcv957tj.cloudflare-gateway.com/dns-query",
+    "UPSTREAM_GEO_BYPASS": "https://dns.mullvad.net/dns-query",
+    "UPSTREAM_TIMEOUT": 5000,
+    "ALL_LISTS_REFRESH_INTERVAL": 3600000,
+    "AD_BLOCK_ENABLED": true,
+    "ECS_INJECTION_ENABLED": true,
+    "ECS_PREFIX_V4": 24,
+    "ECS_PREFIX_V6": 48,
+    "BLOCK_ANY": true,
+    "BLOCK_AAAA": true,
+    "BLOCK_PTR": true,
+    "BLOCK_HTTPS": true,
+    "BLOCK_PRIVATE_TLD": true,
+    "DNS_REDIRECT_ENABLED": true,
+    "MULLVAD_UPSTREAM_ENABLED": true,
+    "BLOCKLIST_URL": "/rules/blocklists.txt",
+    "ALLOWLIST_URL": "/rules/allowlists.txt",
+    "PRIVATE_TLD_URL": "/rules/private_tlds.txt",
+    "REDIRECT_RULES_URL": "/rules/redirect_rules.txt",
+    "MULLVAD_UPSTREAM_URL": "/rules/mullvad_upstream.txt"
+  },
+  "custom_lists": {
+    "blocklist": "",
+    "allowlist": "",
+    "redirect_rules": "",
+    "private_tlds": "",
+    "mullvad_upstream": ""
+  },
+  "urls": {
+    "blocklist": [
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
+      "https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt",
+      "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
+      "https://badmojr.github.io/1Hosts/Lite/adblock.txt"
+    ],
+    "allowlist": [],
+    "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt\nhttps://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts\nhttps://badmojr.github.io/1Hosts/Lite/adblock.txt"
+  },
+  "_updated": 1777008553800
+}

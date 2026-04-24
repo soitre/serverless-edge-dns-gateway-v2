@@ -32,7 +32,7 @@ echo "Downloading and processing blocklists..."
   curl -fsSL --max-time 60 \
   https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt \
   https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt \
-  https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt \
+  https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt \
   https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
   https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt \
   https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \

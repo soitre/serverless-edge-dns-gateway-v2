@@ -27,21 +27,19 @@
     "allowlist": "browser.coccoc.com\nsafe-browsing-api.coccoc.com\naccounts.coccoc.com\npoints.coccoc.com\nedge.microsoft.com\ncloudflare.com\ncloudflare.net\ncloudflareinsights.com\nbitwarden.com\nvault.bitwarden.com\nvault.bitwarden.eu\npagead2.googlesyndication.com\numami.is\ncontrold.com\ntolt.io\niplocate.io\nvlxx.bz\nvlxx.ms\nclick.mz.simba.taobao.com\nclick.tz.simba.taobao.com\nadsense.google.com\nanalytics.google.com\nadipolo.com\ndashboard.adipolo.com",
     "redirect_rules": "v19-webapp-prime.tiktok.com v16-webapp-prime.tiktok.com\nv16-webapp-prime.tiktok.com v16-webapp-prime.tiktok.com.bytegeo.akadns.net\nwww.bilibili.tv www.bilibili.tv.w.cdngslb.com\nupos-sz-mirrorcos.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirrorcosb.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirrorbos.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirrorhw.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirrorhwb.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-upcdnbda2.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-upcdnws.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirrorali.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirroraliov.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirror08h.bilivideo.com upos-hz-mirrorakam.akamaized.net\nupos-sz-mirrorcosov.bilivideo.com upos-hz-mirrorakam.akamaized.net\nmedium.com rocket.net\npornhub.com www.pornhub.com\nfextralife.com www.fextralife.com\ndeo.shopeemobile.com deo.shopeemobile.com-v1.edgesuite.net\ncf.shopee.vn cf.shopee.vn.akamaized.net\ndown-vn.img.susercontent.com zshopee.v.baishan-cloud.net",
     "private_tlds": "internal\nlocaldomain\nexample\ninvalid\nlocalhost\ntest\nlocal\nonion\nlan\nhome\nfpt\nunused\nrouter\ninstant.arubanetworks.com\nsetmeup.arubanetworks.com\nasusrouter.com\nrouter.asus.com\nrouter.asus\nwww.asusrouter.com\noasisauth.h3c.com\nrouterlogin.com\nwww.routerlogin.com\ntplogin.cn\nmiwifi.com\nitotolink.net\nplex.direct\npeiluyou.com\ntplinkwifi.net\ntendawifi.com\nhiwifi.com\nleike.cc\nrouter.ctc\nphicomm.me\nts.net\nhome.arpa\nin-addr.arpa\nip6.arpa\n192.168.1.1\n192.168.1.0\n192.168.102.1",
-    "mullvad_upstream": "gravatar.com\ngithub.io\ngithub.com\ngithubcopilot.com\ngithubusercontent.com\ngithub-cloud.s3.amazonaws.com\ngithubassets.com\nsteamcommunity.com\nsteampowered.com\nsteamstatic.com"
+    "mullvad_upstream": "gravatar.com\ngithub.io\ngithub.com\ngithubcopilot.com\ngithubusercontent.com\ngithub-cloud.s3.amazonaws.com\ngithubassets.com\nsteamcommunity.com\nsteampowered.com\nsteamstatic.com\nfextralife.com"
   },
   "urls": {
     "blocklist": [
-      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt",
-      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt",
-      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt",
       "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
-      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt",
+      "https://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt",
       "https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt",
-      "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts",
-      "https://badmojr.github.io/1Hosts/Lite/adblock.txt"
+      "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
     ],
     "allowlist": [],
-    "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_5.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt\nhttps://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts\nhttps://badmojr.github.io/1Hosts/Lite/adblock.txt"
+    "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
   },
-  "_updated": 1777009291484
+  "_updated": 1777184224859
 }

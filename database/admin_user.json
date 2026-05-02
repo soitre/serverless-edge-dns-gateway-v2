@@ -1,0 +1,9 @@
+{
+  "needsSetup": false,
+  "username": "soitre",
+  "owner": "soitre",
+  "repo": "serverless-edge-dns-gateway-v2",
+  "encrypted_pat": "Oda50w7tOR7PCXIsWl7Q54G7TuLVMG1IXfdCZ0mIaVMjHxWiPeEHa2YsWY3Ze41f7gCJxM4e2KL/Bh5OJAeRpv5pJxs=",
+  "salt": "yh7WtgzvklVCyb2CnK+j7A==",
+  "iterations": 600000
+}

@@ -8,8 +8,8 @@ const UPSTREAM_TIMEOUT = 5000;
 const ALL_LISTS_REFRESH_INTERVAL = 3600000; // 1 hour
 
 const AD_BLOCK_ENABLED = true;
-const BLOCKLIST_URL = '/rules/blocklists.txt';
-const ALLOWLIST_URL = '/rules/allowlists.txt';
+const BLOCKLIST_URL = 'https://doh.sonn.qzz.io/rules/blocklists.txt';
+const ALLOWLIST_URL = 'https://doh.sonn.qzz.io/rules/allowlists.txt';
 
 const ECS_INJECTION_ENABLED = true;
 const ECS_PREFIX_V4 = 24;
@@ -23,15 +23,15 @@ const BLOCK_HTTPS = false;  // TYPE 65  — HTTPS record queries
 
 // Block private/internal TLDs and router domains
 const BLOCK_PRIVATE_TLD = true;
-const PRIVATE_TLD_URL = '/rules/private_tlds.txt';
+const PRIVATE_TLD_URL = 'https://doh.sonn.qzz.io/rules/private_tlds.txt';
 
 // DNS redirect/rewrite (local CNAME overrides)
 const DNS_REDIRECT_ENABLED = true;
-const REDIRECT_RULES_URL = '/rules/redirect_rules.txt';
+const REDIRECT_RULES_URL = 'https://doh.sonn.qzz.io/rules/redirect_rules.txt';
 
 // Dedicated Mullvad Upstream Domains
 const MULLVAD_UPSTREAM_ENABLED = true;
-const MULLVAD_UPSTREAM_URL = '/rules/mullvad_upstream.txt';
+const MULLVAD_UPSTREAM_URL = 'https://doh.sonn.qzz.io/rules/mullvad_upstream.txt';
 
 // CONFIG_END
 

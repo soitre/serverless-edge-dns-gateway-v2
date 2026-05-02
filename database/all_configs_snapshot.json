@@ -9,10 +9,10 @@
     "ECS_INJECTION_ENABLED": true,
     "ECS_PREFIX_V4": 24,
     "ECS_PREFIX_V6": 48,
-    "BLOCK_ANY": false,
-    "BLOCK_AAAA": false,
-    "BLOCK_PTR": false,
-    "BLOCK_HTTPS": false,
+    "BLOCK_ANY": true,
+    "BLOCK_AAAA": true,
+    "BLOCK_PTR": true,
+    "BLOCK_HTTPS": true,
     "BLOCK_PRIVATE_TLD": true,
     "DNS_REDIRECT_ENABLED": true,
     "MULLVAD_UPSTREAM_ENABLED": true,
@@ -41,5 +41,5 @@
     "allowlist": [],
     "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_27.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://raw.githubusercontent.com/soitre/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
   },
-  "_updated": 1777697835178
+  "_updated": 1777698093960
 }

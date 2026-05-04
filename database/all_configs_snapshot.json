@@ -1,5 +1,4 @@
 {
-  "force": false,
   "config": {
     "UPSTREAM_PRIMARY": "https://bu0eg1tdzu.cloudflare-gateway.com/dns-query",
     "UPSTREAM_FALLBACK": "https://rhpcv957tj.cloudflare-gateway.com/dns-query",
@@ -42,5 +41,5 @@
     "allowlist": [],
     "blocklist_text": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt\nhttps://adguardteam.github.io/HostlistsRegistry/assets/filter_51.txt\nhttps://raw.githubusercontent.com/soitre/AdGuard-Home-blocklists/refs/heads/main/byme.txt\nhttps://raw.githubusercontent.com/VeleSila/yhosts/master/hosts\nhttps://badmojr.github.io/1Hosts/Lite/adblock.txt"
   },
-  "_requested": 1777878408455
+  "_updated": 1777878431252
 }

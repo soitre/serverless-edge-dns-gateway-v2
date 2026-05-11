@@ -21,3 +21,5 @@ adsense.google.com
 analytics.google.com
 adipolo.com
 dashboard.adipolo.com
+cdn.freedl.ink
+freedl.ink

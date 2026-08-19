@@ -7360,6 +7360,7 @@ mine.torrent.pw
 14fefmsjd.de
 14i8trbbx4.com
 14k4.com
+14k6z61kqkmtcb3u1.cfd
 153c349024.com
 153ee57fd4.com
 1541651566.com
@@ -11533,6 +11534,7 @@ bbtuvgqhflajx.com
 bbtvpnqyvdzmq.website
 bbtzmolquyfhe.website
 bbunieesjwuiz.space
+bbwrawhklkvyy.space
 bbxkqbbqwzojv.space
 bbyoktrreb.com
 bbyyqitxuplnz.site
@@ -13164,6 +13166,7 @@ bvggicxfzizia.com
 bvlconyoly.com
 bvmcdn.com
 bvmcdn.net
+bvnuaylhqmvcy.online
 bvryckykikvhh.website
 bvtmvalgidefh.store
 bvtpk.com
@@ -14298,6 +14301,7 @@ claim-reward.vidox.net
 claimexercise.com
 claimsthemselves.com
 clambakefreenessunclasp.com
+clammeddurra.qpon
 clammyendearedkeg.com
 clamorstineoid.qpon
 clamourbiflex.cyou
@@ -14519,6 +14523,7 @@ cmbmwcfmcwyo.com
 cmccmpzj.com
 cmcdgydtbxgda.website
 cmdfmbugzwjkg.site
+cmdgblcprtmzu.site
 cmdtubyfwosoa.online
 cmfads.com
 cmiupqlouwnnw.website
@@ -17243,6 +17248,7 @@ dqwnpdlgzpjni.space
 dqwpkufwbinyi.website
 dqwvwfkpgxil.com
 dqwxixvisqmwx.space
+dqxfqjjrfgxlb.online
 dqydzfzvwvaxt.website
 dr-marian-tdrirmh.work
 drab-week.com
@@ -18496,6 +18502,7 @@ elastic-sync.xyz
 elasticad.net
 elasticthing.com
 elatedcamera.com
+elatedpassatashiv.qpon
 elaterybarkeep.cfd
 elaterylimbos.com
 elaydark.com
@@ -20041,6 +20048,7 @@ fictionbusinessmensoloist.com
 fidar.site
 fiddedmannas.shop
 fiddedzakkeu.qpon
+fiddledtragion.com
 fiddlestructureparadise.com
 fiddleyhigdon.com
 fidelitygenerationsmistletoe.com
@@ -21105,6 +21113,7 @@ fvxemeqkmkmox.site
 fvxttknut.com
 fw7u7ub6kkux9woj48bcu57p7x.cfd
 fwbntw.com
+fwbuftcunyfgw.space
 fwcvdfgoeayyo.site
 fwepmrpj.com
 fwfzomszkhywg.online
@@ -22030,6 +22039,7 @@ goalersoyer.cyou
 goaserv.com
 goasrv.com
 goatsalmighty.com
+goaveshoaxersjambool.qpon
 gobacktothefuture.biz
 gobasbmqbraud.website
 gobioshunnedmazic.cyou
@@ -26270,6 +26280,7 @@ judicialreaphealth.com
 judiciousbarnacle.com
 judowoofed.qpon
 judsosvhqpuio.online
+juehftvytjpkj.online
 juergencarcer.cfd
 jufferplatens.cfd
 jufmgsnsjjcpk.site
@@ -31469,6 +31480,7 @@ nksbygyqqtnsn.site
 nksjnxsl.com
 nksrruchodgda.online
 nksyiylcu.com
+nktgcqkvombbp.space
 nktmuyapmeohz.online
 nkueonpkfsaiy.space
 nkwampojlqbic.space
@@ -32809,6 +32821,7 @@ openx.net
 openxenterprise.com
 openxmarket.asia
 operaherman.qpon
+operaryazha.com
 operaserver.com
 operateturfculprit.com
 operativebreeder.com
@@ -33392,6 +33405,7 @@ ozmwpmwfujjmv.site
 ozmynffxynt95mepx2.cfd
 ozonemedia.com
 ozoodywxvkwyx.site
+ozovwqhhhbalk.space
 ozpflhpfhkvgt.space
 ozpifymthfser.space
 ozpnmwkzyvazx.store
@@ -33896,6 +33910,7 @@ peepholecockpit.com
 peer39.net
 peeragelevyne.com
 peerlessqueensuccessfully.com
+peevesbookshelfallocation.com
 peevesfellafraid.com
 peevukpzk.com
 pefftzbjtapkv.online
@@ -35677,6 +35692,7 @@ pushclk.com
 pushdom.co
 pushdomains.biz
 pushelp.pro
+pushesvuggy.shop
 pushflow.net
 pushflow.org
 pushhemretaliate.com
@@ -48759,6 +48775,7 @@ yzyjcjmsylgbv.site
 yzyzkatyeco.com
 z3quffj9f74zjn.rest
 z451hzjrn3ntu1.cfd
+z9enj9mcxh4iccq.rest
 zaatpjzahehda.space
 zabanit.xyz
 zabianunmoral.qpon
@@ -53678,6 +53695,7 @@ log-hl.snssdk.com
 ib.snssdk.com
 xlog.snssdk.com
 log.snssdk.com
+cdn.mgln.ai
 whoas.xyz
 api.firwinds.site
 geniuslinkcdn.com
@@ -151886,6 +151904,8 @@ wiz.sncf-connect.com
 wz.allianz.fr
 d1udjti6mtxz9q.cloudfront.net
 incoming.telemetry.mozilla.org
+analytics.byub.org
+analytics-api.byub.org
 analytics.netronline.dev
 analytics.7reels.cc
 analytics.streamvaultsrc.click
@@ -199396,8 +199416,6 @@ analytics.bytesbourbonbbq.com
 apps.bytesfield.com
 sentry.bytro.com
 sentry2.bytro.com
-analytics.byub.org
-analytics-api.byub.org
 analytics.byupw.org
 collect.bywetransfer.com
 piwik.bzga.de
@@ -318701,7 +318719,6 @@ operakuechen.de
 operamediaworks.com
 operar.xyz
 operaroyalcasino.fr
-operaryazha.com
 operasecond.shop
 operated501.com
 operatepressedcaterer.com
